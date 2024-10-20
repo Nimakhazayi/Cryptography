@@ -1,7 +1,7 @@
 
 txt = str(input(" File address please: "))
 const = int(input(" The constant of a linear replacement you want in order of the English alphabet: "))
-coef = int(input(" The coeff of a linear replacement you want in order of the English alphabet: "))
+coef = int(input(" The coeff of a linear replacement you want in order of the English alphabet:\n choose from the list of [1,3,5,7,9,11,15,17,19,21,23,25]:  "))
 alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 cipher = []
 
